@@ -1,3 +1,5 @@
+git remote set-url origin git@github.com:natalia-serebrinsky/hw2_test.git
+
 VPC which includes
 
 private and public subnets (each in at least 2 AZs)
